@@ -1,3 +1,19 @@
+# Một số ảnh demo minh họa:
+
+![MainScreen](Assets/MainScree.png)
+![MenuScreen](Assets/MenuScreen.png)
+![MapScreen](Assets/MapScreen.png)
+![TalkAndQuestsScreen](Assets/TalkAndQuestsScreen.png)
+![MonsterAndItemScreen](Assets/MonsterAndItemScreen.png)
+![InventoryScreen](Assets/InventoryScreen.png)
+![BossesScreen](Assets/BossesScreen.png)
+![Biome1Screen](Assets/Biome1Screen.png)
+![Biome2Screen](Assets/Biome2Screen.png)
+![Biome3Screen](Assets/Biome3Screen.png)
+![Biome4Screen](Assets/Biome4Screen.png)
+![AnimationTilesScreen](Assets/AnimationTilesScreen.png)
+![](Assets/.png)
+
 # Tiến độ phát triển
 | Ngày       | Enemies | Quests | NPCs | Bosses | Items  | Regions | Particles |
 |------------|---------|--------|------|--------|--------|---------|-----------|
